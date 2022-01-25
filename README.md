@@ -1,3 +1,3 @@
-- 👋 Olá, eu sou Mariana Jager
+- 👋 Olá, meu nome é Mariana Jager
 - 👀 Estou interessada em desenvolvimento web
 - 🌱 Atualmente estou aprendendo HTML-CSS
