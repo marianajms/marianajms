@@ -1,0 +1,3 @@
+- 👋 Olá, eu sou Mariana Jager
+- 👀 Estou interessada em desenvolvimento web
+- 🌱 Atualmente estou aprendendo HTML-CSS
