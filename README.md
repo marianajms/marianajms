@@ -1,3 +1,2 @@
-- 👋 Olá, meu nome é Mariana Jager
+- 👋 Olá, meu nome é Mariana Jager, sou de São Paulo e estudo Sistemas para Internet na Unifatecie
 - 👀 Estou interessada em desenvolvimento web
-- 🌱 Atualmente estou aprendendo HTML-CSS
