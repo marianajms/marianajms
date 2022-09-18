@@ -1,2 +1,3 @@
-- 👋 Olá, meu nome é Mariana Jager, sou de São Paulo e estudo Sistemas para Internet na Unifatecie
+- 👋 Olá, meu nome é Mariana.
+- Sou de São Paulo e estudo Sistemas para Internet na Unifatecie
 - 👀 Estou interessada em desenvolvimento web
