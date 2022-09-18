@@ -1,3 +1,4 @@
 - 👋 Olá, meu nome é Mariana.
-- Sou de São Paulo e estudo Sistemas para Internet na Unifatecie
+- 👨 Sou de São Paulo e estudo Sistemas para Internet na Unifatecie
 - 👀 Estou interessada em desenvolvimento web
+- 💻 Estou estudando HTML, CSS, JavaScript, Node e Java
