@@ -10,4 +10,4 @@ Sou uma entusiasta de desenvolvimento web e atualmente estou estudando Sistemas 
 ### **Como me encontrar**
 📫 Entre em contato comigo através do [LinkedIn]([https://www.linkedin.com/seu_perfil](https://br.linkedin.com/in/mariana-jager-de-macedo-soares-a2490614b))
  para discutir oportunidades ou colaborações interessantes.
-Estou ansiosa para contribuir e aprender com projetos desafiadores. Vamos criar algo incrível juntos! ✨
+Estou ansiosa para contribuir e aprender com projetos desafiadores✨
